@@ -1,0 +1,21 @@
+<Project>
+  <PropertyGroup>
+    <VersionPrefix>1.0.0</VersionPrefix>
+    <NetVersion>net8.0</NetVersion>
+    <!--<NetStandardVersion>netstandard2.1</NetStandardVersion>-->
+
+    <Authors>David Alvarez</Authors>
+    <Company>DavAlv</Company>
+    <Product>Dependa Bot for DotNet</Product>
+
+    <!--<GenerateDocumentationFile>true</GenerateDocumentationFile>-->
+    <!--<GenerateAssemblyConfigurationAttribute>false</GenerateAssemblyConfigurationAttribute>-->
+    <!--<GenerateAssemblyCompanyAttribute>false</GenerateAssemblyCompanyAttribute>-->
+    <!--<GenerateAssemblyProductAttribute>false</GenerateAssemblyProductAttribute>-->
+
+    <ImplicitUsings>enable</ImplicitUsings>
+    <LangVersion>latest</LangVersion>
+    <Nullable>enable</Nullable>
+
+  </PropertyGroup>
+</Project>
