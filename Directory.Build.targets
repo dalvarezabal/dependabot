@@ -1,13 +1,13 @@
 <Project>
   <PropertyGroup>
     <!-- Sample for shared dependency version variable -->
-    <!--<RefitVersion>7.2.22</RefitVersion>-->
+    <DotNetVersion>8.0.0</RefitVersion
   </PropertyGroup>
 
   <ItemGroup>
     <!-- Sample for dependencies -->
 
-    <PackageReference Update="Microsoft.EntityFrameworkCore" Version="8.0.11" />
+    <PackageReference Update="Microsoft.EntityFrameworkCore" Version="$(DotNetVersion)" />
 
     <!--These are testing references-->
     <!--<PackageReference Update="coverlet.collector" Version="6.0.2" />
