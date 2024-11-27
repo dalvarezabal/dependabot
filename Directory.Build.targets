@@ -7,7 +7,7 @@
   <ItemGroup>
     <!-- Sample for dependencies -->
 
-    <PackageReference Update="Microsoft.EntityFrameworkCore" Version="8.0.0" />
+    <PackageReference Update="Microsoft.EntityFrameworkCore" Version="8.0.11" />
 
     <!--These are testing references-->
     <!--<PackageReference Update="coverlet.collector" Version="6.0.2" />
