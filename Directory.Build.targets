@@ -1,7 +1,7 @@
 <Project>
   <PropertyGroup>
     <!-- Sample for shared dependency version variable -->
-    <DotNetVersion>8.0.0</RefitVersion
+    <DotNetVersion>8.0.0</DotNetVersion>
   </PropertyGroup>
 
   <ItemGroup>
